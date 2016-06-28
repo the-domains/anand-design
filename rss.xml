@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Anand Design]]></title>
+        <description><![CDATA[Anand Design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jun 2016 02:58:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Website Redesign - Borchert Kitchen & Bath]]></title>
+            <description><![CDATA[<article><h1>Website Redesign - Borchert Kitchen & Bath</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0c0338a6f6ceb22f16fb1d6b686c2938/croprotate.png?cropheight=3282&cropwidth=1439&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F217c15d9-145e-4806-bf29-72084f5008a5.png&x=0&y=32"></article>]]></description>
+            <link>https://ananddesignblog.files.wordpress.com/2013/04/about-page.png?w=1400&amp;h=&amp;crop=1</link>
+            <guid isPermaLink="false">9c516fec-706b-4692-bc85-e63d00036aba</guid>
+            <pubDate>Tue, 28 Jun 2016 02:58:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
